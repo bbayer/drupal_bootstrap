@@ -1,0 +1,13 @@
+name = Twitter Bootstrap 
+description = Twitter Bootstrap Theme based on Framework 3
+core = 6.x
+engine = phptemplate
+
+stylesheets[all][] = override.css
+
+regions[left] = Left sidebar
+regions[right] = Right sidebar
+regions[header] = Header
+regions[content] = Content
+regions[navigation] = Navigation
+regions[footer] = Footer
