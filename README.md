@@ -1,8 +1,8 @@
 ##Twitter Bootstrap Theme for Drupal 6-x##
 
-This is a very simple but fully functional theme based on (Framework)[http://drupal.org/project/framework] base-theme with Twitter Bootstrap sauce.
+This is a very simple but fully functional theme based on Framework <http://drupal.org/project/framework> base-theme with Twitter Bootstrap sauce.
 
-Also you can choose one of toppings from (Bootswatch)[http://bootswatch.com/] Bootstrap themes from theme settings page.
+Also you can choose one of toppings from Bootswatch <http://bootswatch.com/> Bootstrap themes from theme settings page.
 
 ###Installation###
 
@@ -17,18 +17,23 @@ Just place your new Bootstrap theme css file to ```twitter_bootstrap/bootstrap/c
 ###Author###
 
 Burak BAYER
+
 <http://twitter.com/burakbayer>
 
 ###Credits###
 
 Andre Griffin / Drupal Framework Theme
+
 <http://www.andregriffin.com/>
 
 Mark Otto / Twitter Bootstrap
+
 <http://twitter.com/mdo>
 
 FAT / Twitter Bootstrap
+
 <http://twitter.com/fat>
 
 Thomas Part / Bootswatch
+
 <http://thomaspark.me/>
